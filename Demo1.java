@@ -1,4 +1,4 @@
-abstract class IS123
+abstract class is
 {
 	abstract boolean isValidClaim();
 }
