@@ -1,8 +1,8 @@
-abstract class is
+abstract class IS123
 {
 	abstract boolean isValidClaim();
 }
-class health extends is
+class health extends is     Diploma 1 to 6 full sem marksheet
 {
 	 boolean isValidClaim()
 	{
@@ -40,7 +40,6 @@ public class Demo1
 		approval ap = new approval(h);
 		approval ap1 = new approval(v);
 		
-		//ap.process(h);
-		//ap.process(v);
+
 	}
 }	
